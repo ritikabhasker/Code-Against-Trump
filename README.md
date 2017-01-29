@@ -42,3 +42,9 @@ Debug Politics is a hackathon for anyone dissatisfied with the 2016 election cyc
 Past: San Francisco, New York City 
 
 Future: [Los Angeles](https://www.eventbrite.com/e/debug-politics-1st-la-hackathon-tickets-29491780710). Check website for more to come.
+
+
+## [Ragtag](https://ragtag.team)
+Ragtag is a group of technologists volunteering their skills and time to help progressive causes. Projects include building apps and websites for new activist organizations, volunteer tech support, maps, data visualizations, developing and producing online trainings, and more.
+
+**Where?** The internet, and local chapters around the country. Signup at [https://ragtag.team/join](https://ragtag.team/join) or get tech help for your org at [https://ragtag.team/connect](https://ragtag.team/connect).
