@@ -48,3 +48,8 @@ Future: [Los Angeles](https://www.eventbrite.com/e/debug-politics-1st-la-hackath
 Ragtag is a group of technologists volunteering their skills and time to help progressive causes. Projects include building apps and websites for new activist organizations, volunteer tech support, maps, data visualizations, developing and producing online trainings, and more.
 
 **Where?** The internet, and local chapters around the country. Signup at [https://ragtag.team/join](https://ragtag.team/join) or get tech help for your org at [https://ragtag.team/connect](https://ragtag.team/connect).
+
+## [Open Elections Project](http://www.openelections.net/)
+Open Elections Project aims to create the first free, comprehensive, standardized, linked set of election data for the United States, including federal and statewide offices.
+
+**Where?** The internet. Sign-up at [http://www.openelections.net/get-involved/](http://www.openelections.net/get-involved/)
